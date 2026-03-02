@@ -1,15 +1,23 @@
 <svg width="160" height="50" viewBox="0 0 160 50" xmlns="http://www.w3.org/2000/svg" fill="none">
+<<<<<<< HEAD
   
+=======
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
   <style>
     .logo-text {
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     font-size: 45px;
+<<<<<<< HEAD
     fill: #113;
+=======
+    fill: #111;
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
     letter-spacing: 3px;
 
     }
     .highlight {
+<<<<<<< HEAD
     fill: #ddabcc; /* Fashion pink accent */
     font-family: 'Arial ';
     }
@@ -21,5 +29,16 @@
   </style>
   <text x="10" y="35" class="logo-text">
     <tspan class="highlight ">M</tspan>anas </text>
+=======
+    fill: #c586a5; /* Fashion pink accent */
+    }
+    .underline {
+    stroke: #c586a5;
+    stroke-width: 2;
+    }
+  </style>
+  <text x="10" y="35" class="logo-text">
+    <tspan class="highlight">M</tspan>anas </text>
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
   <line x1="10" y1="38" x2="107" y2="38" class="underline" />
 </svg>

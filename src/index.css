@@ -1,17 +1,25 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
 
+=======
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 a.active hr{
     display: block;
 }
 
+=======
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
 *{
     font-family: Outfit;
 }
 
+<<<<<<< HEAD
 .prata-regular {
     font-family: "Prata", serif;
     font-weight: 400;
@@ -28,3 +36,15 @@ a.active hr{
         color: white;
     }
   }
+=======
+select,input,textarea{
+    border: 1px solid #c2c2c2;
+    outline-color: #C586A5;
+    border-radius: 4px;
+}
+
+.active{
+    background-color: #ffebf5;
+    border-color: #C586A5;
+}
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5

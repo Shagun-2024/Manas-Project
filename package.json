@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
+=======
+  "name": "admin",
+>>>>>>> ec0606688d066a433361338bd2ba6d8a8a1557f5
   "private": true,
   "version": "0.0.0",
   "type": "module",
