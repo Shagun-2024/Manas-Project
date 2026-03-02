@@ -1,0 +1,25 @@
+<svg width="160" height="50" viewBox="0 0 160 50" xmlns="http://www.w3.org/2000/svg" fill="none">
+  
+  <style>
+    .logo-text {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 45px;
+    fill: #113;
+    letter-spacing: 3px;
+
+    }
+    .highlight {
+    fill: #ddabcc; /* Fashion pink accent */
+    font-family: 'Arial ';
+    }
+    .underline {
+    stroke: #ddabcc;
+    stroke-width: 2;
+    }
+    
+  </style>
+  <text x="10" y="35" class="logo-text">
+    <tspan class="highlight ">M</tspan>anas </text>
+  <line x1="10" y1="38" x2="107" y2="38" class="underline" />
+</svg>
